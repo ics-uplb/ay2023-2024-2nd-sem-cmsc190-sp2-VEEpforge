@@ -1,3 +1,6 @@
 [submodule "code/caves"]
 	path = code/caves
 	url = https://github.com/VEEpforge/caves_frontend.git
+[submodule "code/caves_server"]
+	path = code/caves_server
+	url = https://github.com/VEEpforge/caveproject_server.git
