@@ -1,0 +1,5 @@
+code/caves_frontend/backup
+code/caves_frontend/node_modules
+code/caves_frontend/dist
+code/caves_frontend/dist-ssr
+code/caves_frontend/*.local
