@@ -5,4 +5,4 @@ The *caves* isolation source web application was developed to provide a database
 
 Keywords: microbial data, bat, bat guano, caves, culture collection, database management system, MERN stack
 
-Read [How To Document](HOWTO.md) for more details.
+VERIFIED MRUANACLETO October 21, 2024
